@@ -1,12 +1,10 @@
 /* Medium Desktop */
-@media (max-width: 1700px) {
     body{
         width: 100%;
     }
     .mobile{
         display: none;
     }
-}
 
 /* Mobile */
 @media (max-width: 767px) {
